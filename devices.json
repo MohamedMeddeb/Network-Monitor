@@ -1,0 +1,38 @@
+[
+    {
+        "ip": "1.1.1.1",
+        "type": "server",
+        "status": "Online",
+        "last_online": "2025-08-02 15:14:49"
+    },
+    {
+        "ip": "8.8.8.8",
+        "type": "server",
+        "status": "Online",
+        "last_online": "2025-08-02 15:14:50"
+    },
+    {
+        "ip": "facebook.com",
+        "type": "server",
+        "status": "Online",
+        "last_online": "2025-08-02 15:14:51"
+    },
+    {
+        "ip": "amazon.com",
+        "type": "server",
+        "status": "Online",
+        "last_online": "2025-08-02 15:14:53"
+    },
+    {
+        "ip": "steam.com",
+        "type": "server",
+        "status": "Offline",
+        "last_online": null
+    },
+    {
+        "ip": "discord.com",
+        "type": "server",
+        "status": "Online",
+        "last_online": "2025-08-02 15:14:55"
+    }
+]
